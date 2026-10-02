@@ -16,7 +16,3 @@ Pure only css 3D craddle no javascript.
 
 ## Responsive ✔️
 
-
-## Follow me on
-
-[Instagram](https://www.instagram.com/houssem_lachtar/), [Linkedin ](https://www.linkedin.com/in/houssem-lachtar/), [Codepen](https://codepen.io/houssem-lachtar), [GitHub](https://github.com/houssemlachtar)
