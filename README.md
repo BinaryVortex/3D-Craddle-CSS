@@ -8,7 +8,7 @@ Pure only css 3D craddle no javascript.
         <img alt="Thumbnail" src="./Thumbnail.jpg" />
     </a>
 <br>
-<a href="https://houssemlachtar.github.io/Pure-CSS-Only/">
+<a href="https://binaryvortex.github.io/3D-Craddle-CSS/">
         Demo
     </a>
 </p>
